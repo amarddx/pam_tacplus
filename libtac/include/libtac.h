@@ -45,7 +45,7 @@ extern "C"
 
 #ifdef __linux__
 
-#include <sys/cdefs.h>
+#include <cdefs.h>
 
 #else
 #include "cdefs.h"
